@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://localhost:1313"
-title = "Bigspring Light"
+title = "Konnek Tech"
 # theme = "bigspring-light"
 # post pagination
 paginate = "3"
